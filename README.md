@@ -3,7 +3,7 @@ Initial Proposal to Standardize Public Profile using a simple .yml file
 ### Background 
 
 Traditional way of Sharing Profiles in Phones uses VCARD File
-[(VCard, JCARD) - Wiki ](https://en.wikipedia.org/wiki/VCard#jCard)
+[(VCard, JCARD) - Wiki ](https://en.wikipedia.org/wiki/VCard#jCard). But i don't find one to share a user profile about his  digital presence on the Web.
 
 ### Summary
 
